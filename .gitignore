@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+*.bin
+*.safetensors
+wandb/
+.DS_Store
